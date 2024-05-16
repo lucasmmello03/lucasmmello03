@@ -1,7 +1,5 @@
-### Hi there 👋
 
-<!-# README
-My Readme 
+
 <h1 align="center">Hi 👋, I'm Lucas Melo de Mello</h1>
 <h3 align="center">I'm a Junior Android developer in Brazil and I'm available for work</h3>
 
